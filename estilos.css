@@ -1,0 +1,229 @@
+
+
+body{
+ 
+background-color: rgb(27, 24, 36);
+color: rgb(199, 248, 232);
+letter-spacing: 2px;
+
+}
+.nahuel {
+    color: rgb(199, 248, 232);
+    background-color: #212529;
+    margin-top: 20px;
+    font-size: 100px;
+   
+}
+.imagen1 {border-radius: 10%;
+    width: 100%;
+    opacity: 80%;
+    border: 1px solid aquamarine
+    
+}
+
+
+
+.col {align-items: center;
+    align-self: center;
+    opacity:85%;
+   
+}
+#col1{
+     margin-top: 100px;
+    opacity: 50%;
+    font-size: 25px;
+  
+   text-transform: uppercase;
+
+}
+.cuatro {
+    opacity: 80%;
+}
+
+b {
+    
+    font-size: larger;
+  
+}
+#programacion{
+    border: solid 1px ;
+    margin:0px auto;
+    margin-top: 20px;
+    opacity: 80%;
+    
+}
+
+#imagenProgramacion{
+    width: 250px;
+}
+.card {
+  
+    justify-content: center;
+}
+
+#carrusel {
+  
+    width: 100%;
+    opacity: 80%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+   
+}
+
+h1 {
+
+    color: rgb(199, 248, 232);
+}
+
+
+a{
+    font-size: 25px;
+    color: rgb(199, 248, 232);
+    
+}
+
+
+#responsive {
+    color: rgb(199, 248, 232);
+}
+
+.carousel-item{
+    border: aquamarine solid 10px;
+}
+.card-title {
+    color: #212529;
+}
+.card-text {
+    color: #212529;
+}
+
+
+h3{
+    color: rgb(199, 248, 232);
+    background-color: #212529;
+    
+}
+
+
+
+
+.tech{
+    height: 124px;
+    
+    
+}
+
+#logo{
+    background-color: rgb(23, 49, 72);
+}
+#container-proyectos{
+    opacity: 80%;
+    display: flex;
+    justify-content: space-around;
+    
+    
+   
+ }
+
+
+.container-aptitudes {
+    justify-content: center;
+    margin-bottom: 100%;
+    border: solid 1px ;
+    border: 1px solid aqua;
+    display: flex;
+    
+    
+ }
+#aptitudes{
+    width: 100px;
+    opacity:80%;
+    
+}
+.row1 {
+    display: flex;
+    text-align: center;
+    
+}
+
+
+.card{
+    
+    height: 100%;
+}
+h1 {
+    color: #212529;
+    font-size: 15px;
+   
+}
+.bio4 {
+    color: black;
+    text-decoration: none;
+}
+.header {
+    color: rgb(199, 248, 232);
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color:aquamarine;
+}
+button {
+    color: #000000;
+    background-color: rgb(199, 248, 232);
+    border: solid 2px aqua;
+    width: 50%;
+}
+.contacto {
+margin-top: 50px;
+
+
+}
+h4 {
+    font-size: 20px;
+}
+.redes {
+    width: 70px;
+    background-color: #7f868d;
+    border-radius: 100%;
+    border: 1px solid aquamarine;
+    margin-top: 30px;
+}
+.container-redes{
+    margin-top: 100px;
+}
+.tel-gmail{
+    width: 10%;
+    background-color: #7f868d;
+    border-radius: 100%;
+  
+}
+.container-footer{
+ 
+    margin-top: 100px;
+    background-color: rgb(27, 24, 36);
+    
+  
+    
+}
+.container-aptitudes{
+    margin-top: 50px;
+}
+h6 {color: #212529;
+    font-size: 20px;
+
+}
+
+#form{
+    color: rgb(199, 248, 232); ;
+    opacity: 80%;
+    
+}
+.tel-gmail{
+    border: solid 1px;
+    border: 1px solid aquamarine;
+   
+  
+}
